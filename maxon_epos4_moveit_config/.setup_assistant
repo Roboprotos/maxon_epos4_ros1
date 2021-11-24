@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: maxon_epos4_ros_canopen
+    relative_path: urdf/maxon_epos4_1dof_ppm.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/maxon_epos4.srdf
+  CONFIG:
+    author_name: Cyril Jourdan
+    author_email: cyril.jourdan@roboprotos.com
+    generated_timestamp: 1630053460

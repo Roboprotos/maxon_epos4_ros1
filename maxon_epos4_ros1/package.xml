@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>maxon_epos4_ros1</name>
+  <version>1.0.0</version>
+  <description>The maxon_epos4_ros1 metapackage contains various packages to control maxon EPOS4 using ROS</description>
+
+  <author email="cyril.jourdan@roboprotos.com">Cyril Jourdan</author>
+  <maintainer email="cyril.jourdan@roboprotos.com">Cyril Jourdan</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://wiki.ros.org/maxon_epos4_ros1</url>
+  <url type="repository">https://github.com/roboprotos/maxon_epos4_ros1</url>
+  <url type="bugtracker">https://github.com/roboprotos/maxon_epos4_ros1/issues</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>roslib</exec_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>std_srvs</exec_depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <metapackage />
+  </export>
+</package>
