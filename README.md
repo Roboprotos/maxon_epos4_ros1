@@ -18,3 +18,8 @@ the concrete system environment.<p>
 corresponding controller!**<p>
 Please submit a request on maxon’s Support Center (-> http://support.maxongroup.com) in
 case of any questions concerning the controller’s setup, wiring, or testing.
+  
+<!-- ![EPOS4_24_1 5_Compact-2_v2](https://user-images.githubusercontent.com/66867384/143408690-c87853c8-6b7c-4b1f-86c8-2f8a262d8b5f.jpg) -->
+<img src="https://user-images.githubusercontent.com/66867384/143408690-c87853c8-6b7c-4b1f-86c8-2f8a262d8b5f.jpg" width="300" height="274">
+<!-- ![maxon_Logo](https://user-images.githubusercontent.com/66867384/143405946-d3c6a284-6d37-4d95-a651-7a8bd6f49529.png) -->
+<img src="https://user-images.githubusercontent.com/66867384/143405946-d3c6a284-6d37-4d95-a651-7a8bd6f49529.png" width="400" height="119">
