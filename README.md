@@ -29,7 +29,7 @@ Alternatively, you can clone a specific branch like melodic-devel (for ROS melod
 ```
   $ git clone -b melodic-devel https://github.com/Roboprotos/maxon_epos4_ros1
 ``` 
-- Look at the PDF file located in the documentation folder for information on how to use this package. It contains a complete tutorial on how to setup both the EPOS4 controllers and ROS1 along with ros_canopen and MoveIt! packages, with a practical example using the NVIDIA Jetson TX2 embedded computer.
+- Look at the PDF file located in the documentation folder for information on how to use this package. It contains a complete tutorial on how to setup both the EPOS4 controllers and ROS1 along with ros_canopen and MoveIt! packages, with practical examples using the NVIDIA Jetson TX2 and Raspberry Pi embedded computers.
 
 <br/>
   
